@@ -35,6 +35,8 @@
   - NextJS -> deploy : Verce <- 생활코딩
 
 ## 10/28 금
+- Create React App >> NextJS
+
 
 ## 10/29 토
 
