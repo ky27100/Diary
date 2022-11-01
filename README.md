@@ -5,3 +5,12 @@
 - MovieWeb by Nico : #3 State
 
 ## 11/01 화
+- MovieWeb : #5 CREATE REACT APP
+
+## 11/02 수
+
+## 11/03 목
+
+## 11/04 금
+
+## 11/05 토
