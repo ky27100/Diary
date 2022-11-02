@@ -8,6 +8,7 @@
 - MovieWeb : #5 CREATE REACT APP
 
 ## 11/02 수
+- npm 
 
 ## 11/03 목
 
