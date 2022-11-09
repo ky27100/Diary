@@ -2,7 +2,7 @@
 
 
 ## 11/07 월
--npm scripts
+- npm scripts
 
 ## 11/08 화
 
