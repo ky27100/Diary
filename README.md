@@ -9,6 +9,7 @@
 
 ## 11/09 수
 - Linux
+- zshell, alias
 
 ## 11/10 목
 
