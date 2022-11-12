@@ -19,3 +19,4 @@
  
 ## 11/12 토
 - linux Scripts 만들어 볼까??
+- linux Scripts 는 뭐로 만드나??
