@@ -20,3 +20,4 @@
 ## 11/12 토
 - linux Scripts 만들어 볼까??
 - linux Scripts 는 뭐로 만드나??
+- linux 서버 강의/강봐 for 개발자 by 뉴렉처
