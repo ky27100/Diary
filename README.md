@@ -3,7 +3,7 @@
 
 ## 11/14 월
 - Environment Variable vs Shell Variable : by Diane Khambu 
-- Linux Shell Programming : 따배셸 - youbtube 
+- Linux Shell Programming : 따배셸  이성미- youbtube 
 - Bash Shell Script : mug896
 
 ## 11/15 화
