@@ -3,10 +3,8 @@
 
 ## 11/14 월
 - Environment Variable vs Shell Variable : by Diane Khambu 
-- env
-- printenv
-- set
-- export
+- Linux Shell Programming : 따배셸 - youbtube 
+- Bash Shell Script : mug896
 
 ## 11/15 화
 
