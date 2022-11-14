@@ -3,6 +3,9 @@
 
 ## 11/14 월
 - Environment Variable vs Shell Variable : by Diane Khambu 
+- env
+- printenv
+- set
 
 ## 11/15 화
 
