@@ -6,6 +6,7 @@
 - env
 - printenv
 - set
+- export
 
 ## 11/15 화
 
