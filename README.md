@@ -7,10 +7,10 @@
 - Bash Shell Script : mug896
 
 ## 11/15 화
-- Bash Shell Script : mug8967
+- Bash Shell Script : mug896
 
 ## 11/16 수
-- Bash Shell Script : mug8967
+- Bash Shell Script : mug896
  - Basics
  - Commands
 
