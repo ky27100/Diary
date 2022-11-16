@@ -10,7 +10,9 @@
 - Bash Shell Script : mug8967
 
 ## 11/16 수
-
+- Bash Shell Script : mug8967
+ - Basics
+ - Commands
 
 ## 11/17 목
 
