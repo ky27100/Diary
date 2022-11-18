@@ -15,10 +15,10 @@
  - Commands
 
 ## 11/17 목
-
+- Bash Shell Script : mug896
 
 ## 11/18 금
-
+- Linux Kernal <- 내가 해야 하나??
  
 ## 11/19 토
 
