@@ -21,4 +21,4 @@
 - Linux Kernal <- 내가 해야 하나??
  
 ## 11/19 토
-
+- Linux Command : apt
