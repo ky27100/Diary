@@ -2,7 +2,8 @@
 - Linux Command : apt
 
 ## 11/21 월
-
+- Why npm Scripts? : css-tricks by Damon Bauer
+- Module Bundler 사용하기
 
 ## 11/22화
 
