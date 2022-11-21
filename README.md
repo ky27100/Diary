@@ -1,6 +1,5 @@
 ## 11/20 일
 - Linux Command : apt
-
 ## 11/21 월
 - Why npm Scripts? : css-tricks by Damon Bauer 
        <== module bundling 이 빠졌다.
