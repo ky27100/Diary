@@ -4,7 +4,7 @@
 ## 11/21 월
 - Why npm Scripts? : css-tricks by Damon Bauer
 - Module Bundler 사용하기
-
+- Node Package => CLI 용으로 만들기 / 어떻게 하는 걸까?
 ## 11/22화
 
 ## 11/23 수
