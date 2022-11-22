@@ -7,7 +7,7 @@
 ## 11/22화
 - my CRA 만들기
 - CRA에 좋은 기능들... 어떤걸 package를 사용한걸까?
-- Hot Module Loading 
+- Hot Module Loading     
 
 - 자바스크립트 미세팁 : "function"은 아예 쓰지 마세요.    
   기존 함수는 다양한 목적에 두르 쓸수 있는 만능 키워드    
