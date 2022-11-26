@@ -17,13 +17,10 @@
   - 생성자함수로 쓰고자 할때 : class
   - 메서드로 쓰고자 할때 : method 축약형    
 ## 11/23 수
-
-
+- Bash Hackers Wiki : https://wiki.bash-hackers.org/dict/index
 ## 11/24 목
-
-
+- Bash Hackers Wiki : https://wiki.bash-hackers.org/dict/index
 ## 11/25 금
-
- 
+- Bash Hackers Wiki : https://wiki.bash-hackers.org/dict/index 
 ## 11/26 토
-
+- Bash Hackers Wiki : https://wiki.bash-hackers.org/dict/index
