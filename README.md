@@ -1,5 +1,5 @@
 ## 11-27 일
-
+- Rico's cheatsheets : https://devhints.io/
 ## 11-28 월
 
 ## 11-29 화
