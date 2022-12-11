@@ -1,5 +1,5 @@
 ## 12-11 일
-- 가상 서버 만들기
+- Development Server
   - Live Server - VSCode
   - Webpack Dev Server
   - browser-sync
