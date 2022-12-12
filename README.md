@@ -3,9 +3,8 @@
   - Live Server - VSCode
   - Webpack Dev Server
   - browser-sync
-
 ## 12-12 월
-
+- Typescript로 블록체인 만들기 : nico
 ## 12-13 화
 
 ## 12-14 수
