@@ -6,7 +6,8 @@
 ## 12-12 월
 - Typescript로 블록체인 만들기 : nico
 ## 12-13 화
-
+- Javascript modules
+- Webpack
 ## 12-14 수
 
 ## 12-15 목
