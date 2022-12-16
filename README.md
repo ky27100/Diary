@@ -13,7 +13,7 @@
 ## 12-15 목
 
 ## 12-16 금
-
+- TypeScript Documentation
 ## 12-17 토
 
 
