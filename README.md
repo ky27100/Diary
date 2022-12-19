@@ -15,5 +15,5 @@
 ## 12-16 금
 - TypeScript Documentation
 ## 12-17 토
-
+- Sap for Abbott
 
